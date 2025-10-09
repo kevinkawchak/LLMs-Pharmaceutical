@@ -1,4 +1,115 @@
 <div align="center">
+  <p>Accelerating FDA Compliance and Cost Efficiency of in silico Clinical Trials via AI Digital Twin Pancreatic Cancer Simulation</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>September 30, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+ 
+<div align="left">
+
+**Question of Interest:**  Can a bidirectional PDAC digital twin, subjected to M15-aligned verification, validation, uncertainty quantification, and applicability assessment, provide sufficiently credible comparative predictions of arm-level efficacy/safety (ORR, DCR, mPFS, mOS, HRs, G3+ AE, dropout) to prioritize Phase II platform-trial arms and inform design choices (e.g., eligibility mix, progression threshold, horizon), thereby reducing empirical iteration while preserving patient safety?
+
+**Context of Use:** A cohort-level digital twin simulates a 10-arm PDAC platform trial (≈100 patients/arm, 36-month horizon, dt=1 day). Tumor dynamics use a two-compartment sensitive/resistant Emax framework with archetype-driven growth rates and a lognormal “sensitivity multiplier.” Survival uses a base hazard with post-progression and biomarker multipliers; toxicity generates G3+ events with dropout probability; a rule-based policy effects 1L→2L→BSC transitions. The twin executes a closed-loop sense–analyze–recommend–act–learn cycle with per-patient logs. Data/knowledge used: drug parameters and archetypes transferred from prior QSP work and literature; control-arm external targets from MPACT (Arm A), NAPOLI-1 (Arm G), and POLO (Arms J/K). Specific role of model outcomes: rank arms, estimate HRs and endpoint distributions, test design assumptions. Other evidence: an a priori VV40/FDA test suite executedVerification/Numerics (V-01 dt-convergence; V-02 seed reproducibility; V-03 zero-efficacy; V-04 zero-growth; V-05 boundary conditions; V-06 toxicity logic), Validation & Sensitivity (S-01..S-09, covering Emax/EC50/half-life, growth, resistance, dropout, hazard multipliers), UQ (UQ-01..03, sigma variation, age SD, 10-seed ensembles), and Applicability (A-01 population drift, A-03 RECIST threshold, A-04 horizon; A-02 dosing schedule reserved). External validation: Arm A close on ORR and mOS, low on mPFS; Arm G underpredicts mPFS/OS; J/K farther off-acknowledged calibration limitations.
+
+**Model Influence: Medium:** Justification: The twin informs internal prioritization and design (arm ranking, sample size tuning, eligibility mix, sensitivity to rules) but is not the sole basis for regulatory or labeling decisions. Outputs are triangulated with literature comparators and expert judgment. Verification and UQ support reliable computation; partial external fit tempers influence.
+
+**Consequence of Wrong Decision: Medium** Justification: If mis-prioritized, resources could shift to a less active arm and expose Phase II participants to suboptimal regimens; however, care remains within accepted standards under IRB/DSMB oversight, and no patient-facing recommendations are made by the software. Thus, consequences are meaningful for efficacy and development efficiency, but with mitigations for safety.
+
+**Model Risk: Medium** Justification: Combining Medium Model Influence with Medium Consequence yields Medium risk (per M15 and ASME V&V 40 logic). Credibility activities were commensurate: code/calculation verification (dt stability; seed reproducibility; boundary/logic checks), model robustness via sensitivity to key biological/clinical assumptions (S-01..S-09), stochastic/UQ ensembles (UQ-03), and applicability to population mix, RECIST thresholds, and horizon (A-01, A-03, A-04). External validation is partly met for A and G with documented gaps, transparently constraining scope.
+
+**Model Impact: Medium (with a path to High)** Justification: Relative to current regulatory expectations, the twin provides MIDD evidence suitable for planning and interaction: clearly stated Question/COU; risk-informed Model Evaluation; pre-specified Technical Criteria via the VV40 test suite; reproducible code and patient-level logs; ensemble uncertainty bands; and applicability analyses. This supports early FDA interactions (e.g., MIDD/Q-sub) for arm prioritization and design what-if analyses, potentially saving time and cost versus purely empirical iteration. Impact is not rated High because simultaneous multi-endpoint external calibration (A, G, J/K) and prospectively defined quantitative acceptance targets/CIs need strengthening; completion of A-02 dosing applicability and expanded external validation would elevate impact.
+
+<div align="left">
+
+<br>
+  
+Kawchak, K. (2025). Accelerating FDA Compliance and Cost Efficiency of in silico Clinical Trials via AI Digital Twin Pancreatic Cancer Simulation. Zenodo. https://doi.org/10.5281/zenodo.17239510
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17239510.svg)](https://doi.org/10.5281/zenodo.17239510)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <p>QSP Metastatic Pancreatic Cancer AI Clinical Trial Simulation From Protocol to Prediction: Code, VVUQ, and Playbook</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>August 29, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+ 
+<div align="left">
+
+**Question:**  Is it plausible for artificial intelligence to generate QSP (quantitative systems pharmacology) pancreatic cancer clinical trial protocols, Python scripts, VVUQ (verification, validation, and uncertainty quantification), and playbook?
+
+**Concepts:** Two prior author studies consisting of drug arms, baseline characteristics, and patient archetypes were incorporated into the initial text trial protocol. The protocol was then further optimized and converted into Python by ChatGPT 5 Pro Research (ChatGPT). Additional trial attributes and mathematical functions were added; followed by hyperparameter optimizations, increased adverse events functionality, and fine-tuning of time steps and tumor grid size primarily by Gemini 2.5 Pro (Gemini). Sensitivity analyses to biological parameters were then conducted; yielding the final model code with optimized parameters and further comparisons to established trials including POLO, NAPOLI-1, and MPACT. The code was then converted back into a plain text protocol by ChatGPT for interpretability regarding non-technical staff, and serving as a platform for future developments.
+
+**Results:** Verifications of several mechanistic variables revealed numerically stable objective response rates (ORRs), with results assisting the finalization of time step dt = 0.05 and tumor volume grid size = 5. Uncertainty quantification of biological sensitive vs. resistant clone parameters also aided in robust ORRs for a combination therapy. Additional sensitivity analysis was performed regarding a KRAS inhibitor whose Emax potency increased by up to threefold, limiting ORR error to 11%. In effect, both numerical stability and biological credibility were demonstrated by the QSP pancreatic cancer simulation. Efforts to ground the control arms to external standards for this model had some success with mOS, ORR%, and DCR% performing more optimally; while mPFS, and Grade 3+ Adverse Events experienced less optimal results based on external validations.
+
+**Outputs:** Initial text based protocols were iteratively refined by ChatGPT based on the author’s prior empirical trial, known requirements for QSP trials, and additional biological incorporations. Code trials were generated based on iterative prompting to optimize parameters and variables. The 10 arm, 7 archetype, 10,000 patient trial with up to 250 ordinary differential equations (ODEs) per patient was aimed towards rapid drug prototyping a Phase II trial in real time. Each trial run yielded a Python script, notebook, and a patient log file. These generated materials were then used throughout the study to build the QSP playbook, VVUQ documentation, and visualization text instructions. The instructions were then converted into Python scripts by Opus 4.1 Extended (Opus), further optimized by the author, and then executed in Google Colab.
+
+**Impacts:** Financial assessments were established between industry QSP virtual trial costs at $2M vs historical Phase II and Phase III trials. The current study was performed by the author at a theoretical cost of $36,304 based on a $150/hr rate at 60 hr/wk for 4 weeks. A QSP cost reduction of up to 99.6% was found; supported by a 23 month time reduction and +27,500% ROI vs. a typical $10.2M Phase II trial. Due to the larger patient cohorts and low resource requirements, the current QSP study was $3.6/patient vs. an in-person trial of $59,500/patient, a 16,528x difference. These financial propositions would most likely be realized by preventing no-go arms from proceeding to in-person trials, such as Arm E; which had a low mOS at 6.6 month, a high Grade 3+ AEs at 92.5%, and second highest Drop % at 14.2%.
+
+**Outcome:** Arm C, an oncogene-targeted therapy, was the most recommended drug combination by AI due to its high ORR at 70.8% and mOS as 11.9 (HR = 0.50). Arms H and I derived from the previous empirical trial were consistently top drug combinations due to competitive response rates and survival. AI models proved pivotal for specialized tasks as ChatGPT was the domain expert that automated text production, Gemini generated trial code solutions at scale, and Opus converted text instructions into effective Python dashboards. Ultimately, as trial code character numbers and complexity rose, models were able to address smaller challenges in the code to obtain useful updates. The numerical stability and sensitivity analyses throughout the VVUQ process can be considered among the study’s most impactful results, while endpoints were more challenging to align with external control arms. This may be due to an estimated 2.5 million tumor volume states being updated at each time-step, adding complexity for further AI modifications.
+
+<div align="left">
+
+<br>
+  
+Kawchak, K. (2025). QSP Metastatic Pancreatic Cancer AI Clinical Trial Simulation From Protocol to Prediction: Code, VVUQ, and Playbook. Zenodo. https://doi.org/10.5281/zenodo.17001137
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17001137.svg)](https://doi.org/10.5281/zenodo.17001137)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
   <p>ChatGPT 100,000 Patient 24-Month In Silico Phase III 5-Arm Pancreatic Cancer Clinical Trial Triplicate</p> 
 <div align="center">
 
