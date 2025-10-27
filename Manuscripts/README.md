@@ -1,4 +1,53 @@
 <div align="center">
+  <p>End-to-End Oncology Clinical Trial LLM Efficiency For Industry Adoption with FDA/ICH Regulations</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>October 26, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+ 
+<div align="left">
+
+The process of a new oncology treatment from drug discovery and preclinical studies through Phase III clinical trials and FDA review can take over a decade and cost hundreds of millions of dollars. Therefore, automated and easy to use large language models which have adapted to code generation for production use of sensitive data should be implemented into cancer trial workflows at scale. Here, LLMs were implemented throughout the study to create table templates, datasets based on author and online literature; and followed
+by triple and quintuple LLM workflows for optimization, table population, peer review, and meta-analyses. Primary models utilized were Sonnet 4.5 Extended, Gemini 2.5 Pro, GPT-5 High, and Grok 4 Fast - with Sonnet being used the most to quickly solve increasingly larger problems and reach consensuses between other LLM responses. The iterated workflow features 12 tables from discovery through Phase III trials, NDA/BOA & FDA Review that identified potential prior LLM applications, with estimated LLM time and cost reductions
+for trial activities. These itemized values for each table were summed by AI and provided in a cost summary of an entire glioblastoma drug development process. The 2025 trial baseline total was estimated to be 10-15 years at a cost of $282M-$837M, while the LLM/AI assisted workflow was projected to be 4.8-7.7 years at $215M-$673M, which is 52-73% faster and 24-50% less expensive. Key performance indicators of baseline vs. LLM, acceleration and cost reduction areas, regulatory framework summary, and call to action were also provided by Sonnet, marking a transition to broader adoption of LLMs for oncology clinical trials. Note: LLM outputs and LLM-generated code locally executed with patient data may require FDA approval.
+
+<div align="left">
+
+<br>
+  
+Kawchak, K. (2025). End-to-End Oncology Clinical Trial LLM Efficiency For Industry Adoption with FDA/ICH Regulations. Zenodo. https://doi.org/10.5281/zenodo.17451709
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17451709.svg)](https://doi.org/10.5281/zenodo.17451709)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
   <p>Accelerating FDA Compliance and Cost Efficiency of in silico Clinical Trials via AI Digital Twin Pancreatic Cancer Simulation</p> 
 <div align="center">
 
