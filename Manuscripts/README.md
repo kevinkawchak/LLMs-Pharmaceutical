@@ -1,4 +1,44 @@
 <div align="center">
+  <p>LLM-Generated Glioblastoma Drug Synergy Machine Learning: From Rapid Code Prototypes to Project Deliverables Package</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>November 14, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+ 
+<div align="left">
+
+Large language models (LLMs) are best utilized through their ability to rapidly prototype code which can be executed locally, causing minimal workflow disruption to existing drug development processes and addresses validation, verification, and transparency concerns. Essentially, LLM written code substituting human code mitigates concerns of LLM black box interpretability and explainability issues. Here, this study uses LLMs to develop, peer review, and make code corrections, yielding a feasible drug synergy machine learning pipeline. This was achieved utilizing Sonnet 4.5 Extended to provide a six machine learning model Python notebook and 1020x26 dataset of 153 unique glioblastoma drug interaction pairs in a single output; with ChatGPT 5 Thinking as a senior peer reviewer recommending fixes to label leakage, group-aware cross validation, and probability calibration. Subsequent Sonnet optimizations focused on an enhanced random forest model at an accuracy of 0.9804 and Macro-F1 of 0.9705 in predicting three drug synergy classes. The final Sonnet automated output bundle of notebook, summary, implementation guide, recommendations mapping, and README files ensured end-to-end reproducibility, auditability, and version control - mimicking a real-world ML release. Four non-Sonnet inference LLMs were used to provide exhaustive analyses regarding performance and industry relevance of the notebook and dataset. LLM code generation using widely available proprietary models has validation advantages over direct LLM prompting; with reduced workflow complexity over fine-tuned, agentic, and augmented retrieval methods. Therefore: easy to use, cost effective, and mainstream LLMs proficient in web search and multi-format uploads are ideal for generating code that can be run locally for everyday drug development tasks; with direct LLM prompts for conducting AI peer review based on complex and voluminous data - marking the transition from LLM benchmark competitions to full and reviewed LLM applications.
+
+<div align="left">
+
+<br>
+  
+Kawchak, K. (2025). LLM-Generated Glioblastoma Drug Synergy Machine Learning: From Rapid Code Prototypes to Project Deliverables Package. Zenodo. https://doi.org/10.5281/zenodo.17614396
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17614396.svg)](https://doi.org/10.5281/zenodo.17614396)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
   <p>End-to-End Oncology Clinical Trial LLM Efficiency For Industry Adoption with FDA/ICH Regulations</p> 
 <div align="center">
 
