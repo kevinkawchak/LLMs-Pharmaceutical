@@ -1,4 +1,4 @@
-## Rare oncology trial innovation
+## Oncology Conversational AI
 
  
 ChemicalQDevice innovates novel oncology clinical trial applications. Anthropic, Google, OpenAI, and xAI large language models (LLMs) are utilized to generate machine learning pipelines, simulations, regulatory documentation, meta-analyses, and financial proposals.
