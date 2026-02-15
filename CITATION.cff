@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "LLMs-Pharmaceutical: LLM Applications for Cancer Drug Discovery and Oncology Clinical Trials"
+message: "If you use this repository, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: Kawchak
+    given-names: Kevin
+    email: kevink@chemicalqdevice.com
+    affiliation: ChemicalQDevice
+repository-code: "https://github.com/kevinkawchak/LLMs-Pharmaceutical"
+url: "https://doi.org/10.5281/zenodo.18171361"
+license: Apache-2.0
+version: "4.2.0"
+date-released: "2026-02-15"
+keywords:
+  - large language models
+  - oncology
+  - clinical trials
+  - drug discovery
+  - digital twins
+  - pharmaceutical AI
+  - machine learning
+  - quantum machine learning
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.13273141"
+    description: "AI Applications for Drug Industry"
+  - type: doi
+    value: "10.5281/zenodo.18171361"
+    description: "LLM Papers: Cancer Drug & Oncology Trials"
