@@ -1,0 +1,12 @@
+line-length = 120
+target-version = "py310"
+
+# Exclude research code directories from all checks.
+# Code/ contains LLM-generated Jupyter notebooks and educational Python tutorials.
+exclude = [
+    "Code/**",
+]
+
+[lint]
+select = ["E", "F", "W"]
+ignore = ["F841", "E741", "E501"]
