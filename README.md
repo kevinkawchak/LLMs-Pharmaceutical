@@ -161,7 +161,7 @@ Code/Drug Discovery/
 └── iPhone 15 Pro/         # On-device inference
 ```
 
-290 files across 14 subdirectories covering LLM, agentic, RAG, multi-model, and protein language model approaches to drug discovery. Key studies include Groq inference benchmarks (4 models, ~1000 tokens/sec), Hugging Face 32-pipeline evaluations, and LangChain agent workflows.
+290 files across 14 subdirectories covering LLM, agentic, RAG, multi-model, and protein language model approaches to drug discovery. Key studies include Groq inference benchmarks (~1000 tokens/sec), Hugging Face 32-pipeline evaluations, and LangChain agent workflows.
 
 ### Hugging Face, LangChain, Generative AI
 
