@@ -6,7 +6,7 @@
 
 ## Overview
 
-This directory contains 2,235 files including 1,446 Jupyter notebooks, 35 Python scripts, and supporting resources organized across 28 research directories. Work spans LLM-driven drug discovery, clinical trial simulation, and quantum machine learning.
+This directory contains 2,235 files including 1,446 Jupyter notebooks, 35 total Python scripts, and supporting resources organized across 28 research directories. Work spans LLM-driven drug discovery, clinical trial simulation, and quantum machine learning.
 
 | Metric | Value |
 |---|---|
