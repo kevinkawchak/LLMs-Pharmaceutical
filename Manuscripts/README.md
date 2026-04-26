@@ -392,7 +392,9 @@ Kawchak, K. (2025). ChatGPT 100,000 Patient 24-Month In Silico Phase III 5-Arm P
   
 Kawchak, K. (2025). End-to-End Pancreatic Ductal Adenocarcinoma Digital Twin Clinical Trial Proposals. Zenodo. https://doi.org/10.5281/zenodo.15735068
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15735068.svg)](https://doi.org/10.5281/zenodo.15735068)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15735068-blue)](https://doi.org/10.5281/zenodo.15735068)
+
+
 
 
 
@@ -435,9 +437,11 @@ Kawchak, K. (2025). End-to-End Pancreatic Ductal Adenocarcinoma Digital Twin Cli
 
 <br>
   
-Kawchak K. 10 Year Glioblastoma Clinical Trial Meta-Analyses by Autonomous AI at Scale. Survival, HR, AE, and RoB scored in AI Reports and Charts, including Verifications. Zenodo. 2025; doi:10.5281/zenodo.15278152
+Kawchak, K. (2025). 10 Year Glioblastoma Clinical Trial Meta-Analyses by Autonomous AI at Scale. Survival, HR, AE, and RoB scored in AI Reports and Charts, including Verifications. Zenodo. https://doi.org/10.5281/zenodo.15549831
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15549831.svg)](https://doi.org/10.5281/zenodo.15549831)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15549831-blue)](https://doi.org/10.5281/zenodo.15549831)
+
+ 
 
 
 ---
@@ -468,7 +472,8 @@ Many advancements have been achieved by clinical researchers to progress the cur
   
 Kawchak K. AI revolution toward the cure of lung adenocarcinoma. Zenodo. 2025; doi:10.5281/zenodo.15278152
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278152.svg)](https://doi.org/10.5281/zenodo.15278152)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15278152-blue)](https://doi.org/10.5281/zenodo.15278152)
+
 
 ---
 
@@ -499,7 +504,9 @@ Every once in a while, a new artificial intelligence technology is released that
   
 Kawchak K. Autonomous LLM Agent and scalable Reasoning LLM for generating cancer drug industry cost solutions. Zenodo. 2025; doi:10.5281/zenodo.15072843 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15072843.svg)](https://doi.org/10.5281/zenodo.15072843)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15072843-blue)](https://doi.org/10.5281/zenodo.15072843)
+
+ 
 
 ---
 
@@ -526,10 +533,11 @@ Expenses related to monoclonal antibody drugs worldwide and cancer clinical stud
 
 <br>
   
-Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.14968404 This content is a preprint and has not been peer-reviewed. 
+Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.14968404 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968404.svg)](https://doi.org/10.5281/zenodo.14968404)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14968404-blue)](https://doi.org/10.5281/zenodo.14968404)
 
+ 
 ---
 
 
