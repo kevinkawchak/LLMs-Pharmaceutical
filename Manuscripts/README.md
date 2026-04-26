@@ -638,8 +638,9 @@ Bioprocess engineering has incorporated effective AI applications in recent year
   
 Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. 
 
+[![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--jzbj0-blue)](https://doi.org/10.26434/chemrxiv-2024-jzbj0)
 
-[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-jzbj0.svg)](https://doi.org/10.26434/chemrxiv-2024-jzbj0)
+
 
 
 
@@ -674,7 +675,8 @@ Part A featured the individual analysis of 5 recent mAb production papers, which
   
 Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-3m7m1.svg)](https://doi.org/10.26434/chemrxiv-2024-3m7m1)
+[![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--3m7m1-blue)](https://doi.org/10.26434/chemrxiv-2024-3m7m1)
+
 
 
 
@@ -708,7 +710,8 @@ The outputs of individual AI generated answers yielded a 10 Paper Summary with 6
   
 Kawchak K. Paclitaxel Biosynthesis AI Breakthrough. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-pqjd3 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
 
-[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-pqjd3.svg)](https://doi.org/10.26434/chemrxiv-2024-pqjd3)
+[![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--pqjd3-blue)](https://doi.org/10.26434/chemrxiv-2024-pqjd3)
+
 
 
 
@@ -736,7 +739,8 @@ Large Multimodal Models (LMMs) possess the ability to analyze chemical spectra o
   
 Kawchak K. High Dimensional and Complex Spectrometric Data Analysis of an Organic Compound using Large Multimodal Models and Chained Outputs. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-06gf1 This content is a preprint and has not been peer-reviewed. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-06gf1.svg)](https://doi.org/10.26434/chemrxiv-2024-06gf1)
+[![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--06gf1-blue)](https://doi.org/10.26434/chemrxiv-2024-06gf1)
+
 
 
 
@@ -770,8 +774,9 @@ Many machine learning models used in academia and industry that identify organic
   
 Kawchak K. LMM Spectrometric Determination of an Organic Compound. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-qtnkj This content is a preprint and has not been peer-reviewed. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-qtnkj.svg)](https://doi.org/10.26434/chemrxiv-2024-qtnkj)
+[![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--qtnkj-blue)](https://doi.org/10.26434/chemrxiv-2024-qtnkj)
 
+ 
 
 
 
@@ -804,7 +809,9 @@ Chemical research is more effectively progressed using Large Multimodal Models (
   
 Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-p91gm This content is a preprint and has not been peer-reviewed.  
 
-[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-p91gm.svg)](https://doi.org/10.26434/chemrxiv-2024-p91gm)
+[![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--p91gm-blue)](https://doi.org/10.26434/chemrxiv-2024-p91gm)
+
+
 
 
 ---
