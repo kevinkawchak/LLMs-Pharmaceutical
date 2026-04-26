@@ -283,7 +283,9 @@ Kawchak, K. (2025). Accelerating FDA Compliance and Cost Efficiency of in silico
   
 Kawchak, K. (2025). QSP Metastatic Pancreatic Cancer AI Clinical Trial Simulation From Protocol to Prediction: Code, VVUQ, and Playbook. Zenodo. https://doi.org/10.5281/zenodo.17001137
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17001137.svg)](https://doi.org/10.5281/zenodo.17001137)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17001137-blue)](https://doi.org/10.5281/zenodo.17001137)
+
+ 
 
 
 
@@ -337,7 +339,9 @@ Kawchak, K. (2025). QSP Metastatic Pancreatic Cancer AI Clinical Trial Simulatio
   
 Kawchak, K. (2025). ChatGPT 100,000 Patient 24-Month In Silico Phase III 5-Arm Pancreatic Cancer Clinical Trial Triplicate. Zenodo. https://doi.org/10.5281/zenodo.16415815
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16415815.svg)](https://doi.org/10.5281/zenodo.16415815)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16415815-blue)](https://doi.org/10.5281/zenodo.16415815)
+
+
 
 
 
