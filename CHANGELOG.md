@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Version numbering continues from the implicit v4.1 state of the repository (801 MB, 2,300+ files, 1,446 notebooks, 30+ publications)
 - No existing code or manuscript files were modified; changes are limited to documentation and CI infrastructure
 - @kevinkawchak updated DOI image badges in main/Manuscripts to fix mobile viewing issues on 2026-04-26
-- @kevinkawchak updated Code/Drug Discovery directory to fix DOI badge issues and other aesthetics issues on 2026-04-26
+- @kevinkawchak updated LLM-based Code directories to fix DOI badge issues and other aesthetics issues on 2026-04-26
 
 ## [4.1.0] - 2026-02-02
 
