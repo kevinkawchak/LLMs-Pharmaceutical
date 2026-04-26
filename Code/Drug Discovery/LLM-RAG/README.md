@@ -8,7 +8,9 @@ Due to the inherent complexity of chemical reactions, supply chain of raw materi
 
 July 23, 2024
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968072.svg)](https://doi.org/10.5281/zenodo.14968072)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14968072-blue)](https://doi.org/10.5281/zenodo.14968072)
+
+ 
 
 ---
 
