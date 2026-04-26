@@ -73,7 +73,9 @@ The purpose of this AI peer review study was to place the world’s focus back o
   
 Kawchak, K. (2025). AI Peer Review Acceleration of LLM-Generated Glioblastoma Clinical Trial Patient Matching ML, FDA/ICH/ISO, and FastAPI. Zenodo. https://doi.org/10.5281/zenodo.17774560
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17774560.svg)](https://doi.org/10.5281/zenodo.17774560)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17774560-blue)](https://doi.org/10.5281/zenodo.17774560)
+
+
 
 
 
@@ -117,7 +119,9 @@ Large language models (LLMs) are best utilized through their ability to rapidly 
   
 Kawchak, K. (2025). LLM-Generated Glioblastoma Drug Synergy Machine Learning: From Rapid Code Prototypes to Project Deliverables Package. Zenodo. https://doi.org/10.5281/zenodo.17614396
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17614396.svg)](https://doi.org/10.5281/zenodo.17614396)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17614396-blue)](https://doi.org/10.5281/zenodo.17614396)
+
+
 
 
 
@@ -159,7 +163,11 @@ for trial activities. These itemized values for each table were summed by AI and
   
 Kawchak, K. (2025). End-to-End Oncology Clinical Trial LLM Efficiency For Industry Adoption with FDA/ICH Regulations. Zenodo. https://doi.org/10.5281/zenodo.17451709
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17451709.svg)](https://doi.org/10.5281/zenodo.17451709)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17451709-blue)](https://doi.org/10.5281/zenodo.17451709)
+
+
+
 
 
 
@@ -216,7 +224,9 @@ Kawchak, K. (2025). End-to-End Oncology Clinical Trial LLM Efficiency For Indust
   
 Kawchak, K. (2025). Accelerating FDA Compliance and Cost Efficiency of in silico Clinical Trials via AI Digital Twin Pancreatic Cancer Simulation. Zenodo. https://doi.org/10.5281/zenodo.17239510
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17239510.svg)](https://doi.org/10.5281/zenodo.17239510)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17239510-blue)](https://doi.org/10.5281/zenodo.17239510)
+
+
 
 
 
