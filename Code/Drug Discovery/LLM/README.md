@@ -61,8 +61,9 @@ GPT 4o produced the most consistent and detailed high quality generations. Llama
 
 July 10, 2024
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14967943-blue)](https://doi.org/10.5281/zenodo.14967943)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14967943.svg)](https://doi.org/10.5281/zenodo.14967943)
+ 
 
 ---
 
