@@ -568,7 +568,9 @@ An exhaustive study was needed to test the limits of leading Large Language Mode
   
 Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968162 This content is a preprint and has not been peer-reviewed. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968162.svg)](https://doi.org/10.5281/zenodo.14968162)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14968162-blue)](https://doi.org/10.5281/zenodo.14968162)
+
+ 
   
 
 
@@ -601,7 +603,9 @@ Solving cancer mechanisms is challenging due to the complexity of the disease in
   
 Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi:10.1101/2024.12.28.630597 This content is a preprint and has not been peer-reviewed. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.1101/2024.12.28.630597.svg)](https://doi.org/10.1101/2024.12.28.630597)
+[![DOI](https://img.shields.io/badge/DOI-10.1101/2024.12.28.630597-blue)](https://doi.org/10.1101/2024.12.28.630597)
+
+ 
 
 
 
@@ -633,6 +637,7 @@ Bioprocess engineering has incorporated effective AI applications in recent year
 <br>
   
 Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. 
+
 
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-jzbj0.svg)](https://doi.org/10.26434/chemrxiv-2024-jzbj0)
 
