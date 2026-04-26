@@ -22,8 +22,8 @@ Few effective goal-oriented iterative LLM code benchmarking studies exist. Succe
   
 Kawchak, K. (2025). Code Generation Competition: 16 Proprietary vs. Open-Source LLMs & Iterative Learning Based on FDA Adverse Event Reporting System. Zenodo. https://doi.org/10.5281/zenodo.18029100
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18029100-blue)](https://doi.org/10.5281/zenodo.18029100)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18029100.svg)](https://doi.org/10.5281/zenodo.18029100)
 
 
 
