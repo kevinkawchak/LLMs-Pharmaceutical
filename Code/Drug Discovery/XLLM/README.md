@@ -22,7 +22,7 @@ Key Takeaways <br>
 
 July 18, 2024
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968018.svg)](https://doi.org/10.5281/zenodo.14968018)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14968018-blue)](https://doi.org/10.5281/zenodo.14968018)
 
 ---
 
