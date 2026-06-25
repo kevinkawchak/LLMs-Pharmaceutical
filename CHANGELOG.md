@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Detailed `Code/README.md` with full repository structure, notebook counts, and research area index
 - Updated `R&D/README.md` with document catalog and topic index
 - Prominent link to **LLM Papers: Cancer Drug & Oncology Trials** collection on main README
+- @kevinkawchak added Oncology Trial PI LLM Adoption Guide.pdf to main on 2026-06-25.
 
 ### Updated
 - Main `README.md` restructured with version/license badges, repository structure diagram, research area summaries, and manuscript highlights
