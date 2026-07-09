@@ -9,6 +9,8 @@
 - Effective meta-prompting strategies
 
 ### Scaling Oncology LLM Generated Code Jan 2026
+- Increase code quantity and quality
+- Matplotlib/plotly visualizations 
 
 ### LaTeX LLM Oncology Table Prompting Guide
 - In-depth table prompt strategies
