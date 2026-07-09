@@ -5,6 +5,8 @@
 - Empirical, QSP, Digital Twin
 
 ### LLM Papers Cancer Drug & Oncology Trials
+- 20 LLM appplication studies
+- Results, Advantages, Limitations
 
 ### LaTeX LLM Oncology Table Prompting Guide
 
