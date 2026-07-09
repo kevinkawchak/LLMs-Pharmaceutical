@@ -26,5 +26,5 @@
 
 ### Physical AI Oncology Trial Competition Proposal
 - LLM applications for author's proposal
-- 
+- Cancer trial Kaplan-Meier, Forest linked 
 
