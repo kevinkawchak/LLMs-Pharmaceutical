@@ -1,6 +1,8 @@
 ## LLMs-Pharmaceutical/Guidance
 
 ### Daraxonrasib Efficient LLM Trial Simulations.pdf
+- Python notebook + no-code simulations
+- Empirical, QSP, Digital Twin
 
 ### LLM Papers Cancer Drug & Oncology Trials.pdf
 
