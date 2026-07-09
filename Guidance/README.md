@@ -1,4 +1,4 @@
-## LLMs-Pharmaceutical/Guidance
+## LLMs-Pharmaceutical Guidance
 
 ### Daraxonrasib Efficient LLM Trial Simulations.pdf
 - Python notebook + no-code simulations
