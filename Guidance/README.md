@@ -1,5 +1,13 @@
 ## LLMs-Pharmaceutical Guidance
 
+### Oncology Trial PI LLM Adoption Guide
+- Repository and limitations guide
+- User prompt, project assistance
+
+### LaTeX LLM Oncology Table Prompting Guide
+- In-depth table prompt strategies
+- Markdown to LateX, Table Structures
+
 ### Daraxonrasib Efficient LLM Trial Simulations
 - Python notebook + No-code simulations
 - Empirical, QSP, Digital Twin
@@ -8,11 +16,8 @@
 - 20 LLM appplication studies
 - Results, Advantages, Limitations
 
-### LaTeX LLM Oncology Table Prompting Guide
-- In-depth table prompt strategies
-- Markdown to LateX, Table Structures
 
-### Oncology Trial PI LLM Adoption Guide
+
 
 ### Physical AI Oncology Trial Competition Proposal
 
