@@ -14,15 +14,15 @@
 
 ### LaTeX LLM Oncology Table Prompting Guide.pdf
 - In-depth table prompt strategies
-- Markdown to LateX, Table Structures
+- Markdown to LateX, Table structures
 
 ### Daraxonrasib Efficient LLM Trial Simulations.pdf
 - Python notebook + No-code simulations
-- Empirical, QSP, Digital Twin Platforms
+- Empirical, QSP, Digital Twin platforms
 
 ### LLM Papers Cancer Drug & Oncology Trials.pdf
 - 20 2024-2025 LLM appplication studies
-- Results, Advantages, Limitations - each
+- Results, advantages, and limitations
 
 ### Physical AI Oncology Trial Competition Proposal.pdf
 - LLM applications for author's proposal
