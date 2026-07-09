@@ -5,8 +5,8 @@
 - User prompt, project assistance
 
 ### Present Claude Code Documentation at Scale 
-- Effective meta-prompting methods
--  
+- Top 10 phrases to a avoid extra work
+- Effective meta-prompting strategies
 
 ### Scaling Oncology LLM Generated Code Jan 2026
 
