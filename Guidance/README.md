@@ -4,6 +4,12 @@
 - Repository and limitations guide
 - User prompt, project assistance
 
+### Present Claude Code Documentation at Scale 
+- Effective meta-prompting methods
+-  
+
+### Scaling Oncology LLM Generated Code Jan 2026
+
 ### LaTeX LLM Oncology Table Prompting Guide
 - In-depth table prompt strategies
 - Markdown to LateX, Table Structures
@@ -21,6 +27,4 @@
 
 ### Physical AI Oncology Trial Competition Proposal
 
-### Present Claude Code Documentation at Scale 
 
-### Scaling Oncology LLM Generated Code Jan 2026
