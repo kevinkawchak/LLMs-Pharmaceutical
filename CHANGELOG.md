@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Emphasis shifted to newer LLM-based studies (Digital Twin PDAC, Drug Discovery, clinical trial simulations) with condensed quantum ML sections
 - `Manuscripts/` section elevated with publication timeline and DOI links
 - `Code/README.md` replaced minimal header with comprehensive directory guide
+- @kevinkawchak removed Daraxonrasib Efficient LLM Trial Simulations.pdf and Physical AI Oncology Trial Competition Proposal.pdf from LLMs-Pharmaceutical/tree/main/Guidance; and modified Guidance/README.md on 2026-07-12.
 
 ### Notes
 - Version numbering continues from the implicit v4.1 state of the repository (801 MB, 2,300+ files, 1,446 notebooks, 30+ publications)
