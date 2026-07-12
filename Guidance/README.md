@@ -24,20 +24,8 @@
 - In-depth table prompt strategies
 - Markdown to LaTeX and table structures
 
-### Daraxonrasib Efficient LLM Trial Simulations.pdf
-[Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Daraxonrasib%20Efficient%20LLM%20Trial%20Simulations.pdf)
-
-- Python notebook and no-code simulations
-- Empirical, QSP, and digital twin platforms
-
 ### LLM Papers Cancer Drug & Oncology Trials.pdf
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/LLM%20Papers%20Cancer%20Drug%20%26%20Oncology%20Trials.pdf)
 
 - 20 LLM application studies from 2024–2025
 - Results, advantages, and limitations
-
-### Physical AI Oncology Trial Competition Proposal.pdf
-[Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Physical%20AI%20Oncology%20Trial%20Competition%20Proposal.pdf)
-
-- LLM applications for the author's proposal
-- Linked cancer-trial Kaplan–Meier and forest plots
