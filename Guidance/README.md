@@ -7,7 +7,7 @@
 - User prompt and project assistance
 
 ### Phase 1 Pancreatic Cancer Trial Efficient LLM Document Guidance.pdf
-[Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Oncology%20Trial%20PI%20LLM%20Adoption%20Guide.pdf)
+[Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Phase%201%20Pancreatic%20Cancer%20Trial%20Efficient%20LLM%20Document%20Guidance.pdf)
 
 - Single prompt write, execute sub-prompts
 - "Mermaid" "draft" "full" "final" files
