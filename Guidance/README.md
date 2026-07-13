@@ -6,6 +6,12 @@
 - Repository and limitations guidance
 - User prompt and project assistance
 
+### Phase 1 Pancreatic Cancer Trial Efficient LLM Document Guidance.pdf
+[Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Oncology%20Trial%20PI%20LLM%20Adoption%20Guide.pdf)
+
+- Single prompt write, execute sub-prompts
+- "Mermaid" "draft" "full" "final" files
+
 ### Present Claude Code Documentation at Scale.pdf
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Present%20Claude%20Code%20Documentation%20at%20Scale.pdf)
 
