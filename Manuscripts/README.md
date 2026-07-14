@@ -1620,10 +1620,3 @@ Chemical research is more effectively progressed using Large Multimodal Models (
   
 Kawchak, K. (2024). LMM Chemical Research with Document Retrieval. ChemRxiv. https://doi.org/10.26434/chemrxiv-2024-p91gm
 [![DOI](https://img.shields.io/badge/DOI-10.26434%2Fchemrxiv--2024--p91gm-blue)](https://doi.org/10.26434/chemrxiv-2024-p91gm)
-
----
-
-## AI Applications for Drug Industry
-LLM and LLM agent pharmaceutical industry applications
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13273141.svg)](https://doi.org/10.5281/zenodo.13273141)
