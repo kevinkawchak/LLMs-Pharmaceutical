@@ -14,10 +14,10 @@
 - Title + abstract proportional-symbol dot plot.
 
 #### Diagram 2
-- Disease association × abstract-grounded study purpose.
+- Disease association × abstract-grounded study bubble matrix plot.
 - Year profile radar chart.
-- Primary stated purpose × disease heatmap.
-- Disease-focus event timeline.
+- Primary stated purpose × disease annotated heatmap.
+- Disease-focus event temporal dot plot.
 
 #### Diagram 3
 - Drug/class → disease association → primary stated purpose sankey.
