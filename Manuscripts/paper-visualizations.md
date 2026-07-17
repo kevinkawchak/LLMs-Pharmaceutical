@@ -7,18 +7,23 @@
 [Download Files](https://drive.google.com/drive/folders/1oSJxZlXbKcKq1iidgXo-q9_8n4xK-jMQ)
 
 #### Diagram 1
-- Publication pulse by month 2024-2026.
-- Month-by-purpose intensity matrix.
-- Cumulative annual research velocity.
+- Publication pulse time series plot 2024-2026.
+- Month-by-purpose intensity matrix heatmap.
+- Cumulative annual research velocity count plot.
 - Study purpose by year heatmap.
-- Title + abstract signal footprint.
+- Title + abstract proportional-symbol dot plot.
 
 #### Diagram 2
 - Disease association × abstract-grounded study purpose.
-- Year profile radar chart
-- Primary stated purpose × disease heatmap
-- Disease-focus event timeline
+- Year profile radar chart.
+- Primary stated purpose × disease heatmap.
+- Disease-focus event timeline.
+
 #### Diagram 3
+- Drug/class → disease association → primary stated purpose sankey.
+- Drug/class × disease association bubble plot.
+- Named-drug and class temporal strip plot.
+- Intervention-context fingerprint heatmap.
 
 #### Diagram 4
 
