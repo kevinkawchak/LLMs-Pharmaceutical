@@ -189,10 +189,6 @@ Code/Tensor Network vs Fully Connected Layer/
 Code/Tensor Networks for Generative AI/
 ```
 
-### R&D Documents
-
-70 markdown research documents (`R&D/001`–`R&D/070`) covering QML algorithm design, medical AI applications, and industry analysis. See [`R&D/README.md`](R&D/README.md) for the full catalog.
-
 ## Research Timeline
 
 ```
