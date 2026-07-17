@@ -60,11 +60,6 @@ LLMs-Pharmaceutical/
 │   ├── README.md                  #   67 KB — Full abstracts, citations, and DOI badges
 │   └── LICENSE.md                 #   CC BY 4.0
 │
-├── R&D/                           # 70 markdown research documents
-│   ├── 001–070 *.md               #   Topics: QML, medical AI, industry analysis
-│   ├── README.md                  #   Document catalog
-│   └── LICENSE.md                 #   Apache 2.0
-│
 ├── README.md                      # This file
 ├── LICENSE.md                     # Apache License 2.0
 ├── CHANGELOG.md                   # Version history
