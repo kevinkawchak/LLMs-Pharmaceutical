@@ -1,5 +1,7 @@
 ## Four 2024-2026 Startup Paper Dashboards
-- Input: 53 Publication Abstracts Text
+- AI: ChatGPT 5.6 Thinking Extended
+- Input: 53 Publication Abstracts Text. Location: Manuscripts/README.md
+- Output: July_16_2026_dashboards_high_resolution.ipynb
 
 #### Diagram 1
 
