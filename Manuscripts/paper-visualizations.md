@@ -14,7 +14,10 @@
 - Title + abstract signal footprint.
 
 #### Diagram 2
-
+- Disease association × abstract-grounded study purpose.
+- Year profile radar chart
+- Primary stated purpose × disease heatmap
+- Disease-focus event timeline
 #### Diagram 3
 
 #### Diagram 4
