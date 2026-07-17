@@ -26,4 +26,11 @@
 - Intervention-context fingerprint heatmap.
 
 #### Diagram 4
+- Monthly primary-purpose river streamgraph.
+- Abstract-supported concept space
+bivariate score plot.
+- Title + abstract signal co-occurrence matrix heatmap.
+- Dominant multi-signal combinations
+UpSet-style plot.
+
 
