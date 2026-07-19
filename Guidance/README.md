@@ -10,7 +10,7 @@
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Phase%201%20Pancreatic%20Cancer%20Trial%20Efficient%20LLM%20Document%20Guidance.pdf)
 
 - Single prompt write, execute sub-prompts
-- "Mermaid" "draft" "full" "final" files
+- "Mermaid", "draft", "full", "final", files
 
 #### Present Claude Code Documentation at Scale.pdf
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Present%20Claude%20Code%20Documentation%20at%20Scale.pdf)
