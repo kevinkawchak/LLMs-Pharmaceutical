@@ -27,8 +27,8 @@
 #### LaTeX LLM Oncology Table Prompting Guide.pdf
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/LaTeX%20LLM%20Oncology%20Table%20Prompting%20Guide.pdf)
 
-- In-depth table prompt strategies
-- Markdown to LaTeX and table structures
+- In-depth table prompting strategies
+- Markdown to LaTeX; and table structures
 
 #### LLM Papers Cancer Drug & Oncology Trials.pdf
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/LLM%20Papers%20Cancer%20Drug%20%26%20Oncology%20Trials.pdf)
