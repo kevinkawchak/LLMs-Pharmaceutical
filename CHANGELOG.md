@@ -26,7 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - @kevinkawchak removed Daraxonrasib Efficient LLM Trial Simulations.pdf and Physical AI Oncology Trial Competition Proposal.pdf from LLMs-Pharmaceutical/tree/main/Guidance; and modified Guidance/README.md on 2026-07-12.
 - @kevinkawchak updated Manuscripts/README.md to reflect publication abstracts through 2026-07-12, which was assisted by ChatGPT on 2026-07-13.
 - @kevinkawchak added Manuscripts/paper-visualizations.md with a download link to four 2024-2026 startup paper dashboard images and Python notebook on 2026-07-17.
-- @kevinkawchak formatted text from main/Guidance and main/Manuscripts on 2026-07-19. 
+- @kevinkawchak formatted text from main/Guidance and main/Manuscripts on 2026-07-19.
+- @kevinkawchak updated main/README.md "LLM Papers: Cancer Drug & Oncology Trials" section to include paper number designations; and strengths, limitations, and results context on 2026-07-20.
 
 ### Notes
 - Version numbering continues from the implicit v4.1 state of the repository (801 MB, 2,300+ files, 1,446 notebooks, 30+ publications)
