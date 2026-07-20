@@ -10,7 +10,7 @@
 ---
 
 > ### [LLM Papers: Cancer Drug & Oncology Trials](https://doi.org/10.5281/zenodo.18171361)
-> Collection of Manuscripts 01-20 based on LLM-driven oncology research and applications by ChemicalQDevice.
+> Collection of Manuscripts 01-20 strengths, limitations, and results based on LLM-driven oncology research by ChemicalQDevice.
 
 ---
 
