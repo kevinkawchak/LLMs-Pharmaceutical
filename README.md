@@ -10,7 +10,7 @@
 ---
 
 > ### [LLM Papers: Cancer Drug & Oncology Trials](https://doi.org/10.5281/zenodo.18171361)
-> Complete collection of peer-reviewed manuscripts and preprints on LLM-driven oncology research by ChemicalQDevice.
+> Collection of Manuscripts 01-20 based on LLM-driven oncology research and applications by ChemicalQDevice.
 
 ---
 
