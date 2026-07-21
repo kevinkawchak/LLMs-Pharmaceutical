@@ -1,0 +1,62 @@
+edge,source,source_title,target,target_title,strength,target_length,bridge,count
+T02|T16,T02,LMM / multimodal AI,T16,Chemistry / spectroscopy,1.0,0.85,False,4
+T11|T17,T11,Clinical trials,T17,Regulatory / compliance,0.7351470441147051,1.4299911391307054,False,21
+T07|T11,T07,Physical AI / robotics,T11,Clinical trials,0.7164977208318386,1.4989058865456317,False,24
+T12|T22,T12,PDAC / pancreatic cancer,T22,Drug compounds / discovery / synergy,0.6923076923076923,1.5927725628610168,False,9
+T07|T17,T07,Physical AI / robotics,T17,Regulatory / compliance,0.6396021490668313,1.8141708926783182,False,18
+T06|T10,T06,Simulation / digital twin,T10,MCP / API infrastructure,0.6210590034081188,1.897385427137516,False,9
+T01|T22,T01,LLM / conversational AI,T22,Drug compounds / discovery / synergy,0.610170215847752,1.9475066930373686,False,11
+T03|T07,T03,Agentic / code generation,T07,Physical AI / robotics,0.6040686963408962,1.97599415075271,False,17
+T06|T20,T06,Simulation / digital twin,T20,Cost / efficiency,0.5855400437691199,2.0642543007507754,False,12
+T11|T20,T11,Clinical trials,T20,Cost / efficiency,0.583383351196948,2.074697478365645,False,18
+T01|T20,T01,LLM / conversational AI,T20,Cost / efficiency,0.5669467095138409,2.155439094020813,False,15
+T08|T21,T08,VVUQ / assurance,T21,Legislation / policy,0.5659164584181103,2.1605674465244373,False,7
+T04|T20,T04,Document retrieval / RAG,T20,Cost / efficiency,0.5500190982169268,2.240700572664706,False,12
+T10|T17,T10,MCP / API infrastructure,T17,Regulatory / compliance,0.545544725589981,2.2635910707855516,False,10
+T03|T04,T03,Agentic / code generation,T04,Document retrieval / RAG,0.5445811486371709,2.268539895663406,False,11
+T03|T20,T03,Agentic / code generation,T20,Cost / efficiency,0.5400617248673216,2.291841958997099,False,14
+T01|T04,T01,LLM / conversational AI,T04,Document retrieval / RAG,0.5335783750799326,2.3255305872764014,False,11
+T06|T11,T06,Simulation / digital twin,T11,Clinical trials,0.5313689313240572,2.33708117705127,False,12
+T17|T18,T17,Regulatory / compliance,T18,Patient safety / adverse events,0.5303300858899107,2.342524337949583,False,9
+T03|T06,T03,Agentic / code generation,T06,Simulation / digital twin,0.5270462766947299,2.3597817421963057,False,10
+T11|T12,T11,Clinical trials,T12,PDAC / pancreatic cancer,0.5232166435699435,2.3800062031483216,False,11
+T07|T21,T07,Physical AI / robotics,T21,Legislation / policy,0.5222329678670935,2.38521813862665,False,9
+T10|T11,T10,MCP / API infrastructure,T11,Clinical trials,0.5041841733655162,2.4820822243326632,False,11
+T06|T08,T06,Simulation / digital twin,T08,VVUQ / assurance,0.5009794328681196,2.4995247401389653,False,8
+T03|T13,T03,Agentic / code generation,T13,Glioblastoma,0.5,2.504870086889875,False,6
+T01|T03,T01,LLM / conversational AI,T03,Agentic / code generation,0.48989794855663565,2.560399513486971,False,12
+T12|T20,T12,PDAC / pancreatic cancer,T20,Cost / efficiency,0.47172817652486326,2.6620834196553465,False,9
+T20|T22,T20,Cost / efficiency,T22,Drug compounds / discovery / synergy,0.47172817652486326,2.6620834196553465,False,9
+T04|T07,T04,Document retrieval / RAG,T07,Physical AI / robotics,0.464420364012824,2.703630174870522,False,11
+T07|T08,T07,Physical AI / robotics,T08,VVUQ / assurance,0.464420364012824,2.703630174870522,False,11
+T10|T18,T10,MCP / API infrastructure,T18,Patient safety / adverse events,0.4629100498862757,2.712262901256073,False,6
+T08|T20,T08,VVUQ / assurance,T20,Cost / efficiency,0.4583492485141057,2.738427543591585,False,10
+T06|T09,T06,Simulation / digital twin,T09,Federated learning,0.4472135954999579,2.8029136075321195,False,3
+T01|T12,T01,LLM / conversational AI,T12,PDAC / pancreatic cancer,0.4437601569801833,2.8230852657481558,False,8
+T04|T05,T04,Document retrieval / RAG,T05,Machine learning / optimization,0.4338609156373123,2.881358504313844,False,4
+T11|T22,T11,Clinical trials,T22,Drug compounds / discovery / synergy,0.42808634473904467,2.915659181333724,False,9
+T05|T20,T05,Machine learning / optimization,T20,Cost / efficiency,0.4225771273642583,2.948594211231015,False,5
+T11|T19,T11,Clinical trials,T19,Patient matching / decision support,0.42008402520840293,2.9635657758343497,False,6
+T01|T13,T01,LLM / conversational AI,T13,Glioblastoma,0.408248290463863,3.035212160835039,False,5
+T07|T18,T07,Physical AI / robotics,T18,Patient safety / adverse events,0.40201512610368484,3.0733212880790717,False,8
+T01|T15,T01,LLM / conversational AI,T15,mAb / bioprocess,0.4,3.0856970913021766,False,4
+T04|T13,T04,Document retrieval / RAG,T13,Glioblastoma,0.39605901719066977,3.1099785955881787,False,4
+T11|T18,T11,Clinical trials,T18,Patient safety / adverse events,0.39605901719066977,3.1099785955881787,False,8
+T13|T20,T13,Glioblastoma,T20,Cost / efficiency,0.38575837490522974,3.1739305807848996,False,5
+T15|T20,T15,mAb / bioprocess,T20,Cost / efficiency,0.3779644730092272,3.2227854015233226,False,4
+T05|T13,T05,Machine learning / optimization,T13,Glioblastoma,0.3651483716701107,3.30398888378105,False,2
+T05|T19,T05,Machine learning / optimization,T19,Patient matching / decision support,0.3651483716701107,3.30398888378105,False,2
+T03|T09,T03,Agentic / code generation,T09,Federated learning,0.3535533905932738,3.3783796770924353,False,3
+T09|T17,T09,Federated learning,T17,Regulatory / compliance,0.3535533905932738,3.3783796770924353,False,3
+T06|T19,T06,Simulation / digital twin,T19,Patient matching / decision support,0.31622776601683794,3.6237499660204913,False,3
+T09|T10,T09,Federated learning,T10,MCP / API infrastructure,0.3086066999241838,3.6749445247916834,False,2
+T19|T20,T19,Patient matching / decision support,T20,Cost / efficiency,0.3086066999241838,3.6749445247916834,False,4
+T01|T02,T01,LLM / conversational AI,T02,LMM / multimodal AI,0.3,3.7332026248451897,False,3
+T01|T16,T01,LLM / conversational AI,T16,Chemistry / spectroscopy,0.3,3.7332026248451897,False,3
+T01|T14,T01,LLM / conversational AI,T14,Lung adenocarcinoma,0.282842712474619,3.850731829355032,False,2
+T02|T22,T02,LMM / multimodal AI,T22,Drug compounds / discovery / synergy,0.2773500981126146,3.888746788997718,False,2
+T16|T22,T16,Chemistry / spectroscopy,T22,Drug compounds / discovery / synergy,0.2773500981126146,3.888746788997718,False,2
+T03|T21,T03,Agentic / code generation,T21,Legislation / policy,0.2721655269759087,3.924802491248962,False,4
+T04|T15,T04,Document retrieval / RAG,T15,mAb / bioprocess,0.24253562503633297,4.134059737099371,False,2
+T11|T14,T11,Clinical trials,T14,Lung adenocarcinoma,0.24253562503633297,4.134059737099371,False,2
+T18|T21,T18,Patient safety / adverse events,T21,Legislation / policy,0.19245008972987526,4.5,False,2

@@ -1,0 +1,5 @@
+graph,nodes,edges,node_radius_scale,degree_vs_radius_spearman,radius_rule_max_abs_error,strength_vs_length_spearman,edge_label_mismatches,node_overlaps,edge_label_overlaps,edge_label_node_overlaps,annotation_overlaps,legend_entry_overlaps,pixel_width,pixel_height,png,svg
+graph1,53,71,1.2,1.0,0.0,-0.7615023474178403,0,0,0,0,0,0,3840,2720,/content/cqd_network_graph_outputs/01_publication_similarity_network.png,/content/cqd_network_graph_outputs/01_publication_similarity_network.svg
+graph2,22,61,0.95,1.0,0.0,-0.7444566434220438,0,0,0,0,0,0,3840,2720,/content/cqd_network_graph_outputs/02_theme_cooccurrence_network.png,/content/cqd_network_graph_outputs/02_theme_cooccurrence_network.svg
+graph3,30,52,0.95,1.0,0.0,-0.5464984740097821,0,0,0,0,0,0,3840,2720,/content/cqd_network_graph_outputs/03_pipeline_theme_association_network.png,/content/cqd_network_graph_outputs/03_pipeline_theme_association_network.svg
+graph4,53,71,1.15,0.9999999999999999,0.0,-0.7814619505803685,0,0,0,0,0,0,3840,2720,/content/cqd_network_graph_outputs/04_temporal_text_similarity_precursor_network.png,/content/cqd_network_graph_outputs/04_temporal_text_similarity_precursor_network.svg

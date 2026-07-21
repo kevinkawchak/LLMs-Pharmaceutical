@@ -1,0 +1,53 @@
+edge,source,source_title,target,target_title,strength,target_length,bridge,count
+S07|T08,S07,Verification & assurance,T08,VVUQ / assurance,0.8559860035676363,0.8,False,17
+S04|T17,S04,Regulatory & ethics,T17,Regulatory / compliance,0.7905694150420948,0.8637608889789177,False,23
+S02|T06,S02,Preclinical / in silico modeling,T06,Simulation / digital twin,0.6734294278130444,1.1467170393569093,False,15
+S05|T10,S05,Site / sponsor infrastructure,T10,MCP / API infrastructure,0.6316651409885906,1.2870844792842029,False,14
+S04|T11,S04,Regulatory & ethics,T11,Clinical trials,0.6116277803261283,1.360936659222643,False,20
+S08|T21,S08,Policy / funding / adoption,T21,Legislation / policy,0.594186746589484,1.4285172732978013,False,9
+S03|T12,S03,Trial design & protocols,T12,PDAC / pancreatic cancer,0.5831956101707068,1.4726471568120179,False,10
+S07|T21,S07,Verification & assurance,T21,Legislation / policy,0.5626453300631405,1.5582870020684352,False,7
+S05|T11,S05,Site / sponsor infrastructure,T11,Clinical trials,0.5621400186432416,1.5604434918596057,False,20
+S08|T08,S08,Policy / funding / adoption,T08,VVUQ / assurance,0.554174045730174,1.5947572019930676,False,16
+S05|T04,S05,Site / sponsor infrastructure,T04,Document retrieval / RAG,0.5523060897787772,1.602889638275645,False,12
+S05|T17,S05,Site / sponsor infrastructure,T17,Regulatory / compliance,0.5493502655735357,1.6158248170062643,False,17
+S05|T07,S05,Site / sponsor infrastructure,T07,Physical AI / robotics,0.5375593527416835,1.6682301574289187,False,18
+S01|T02,S01,Discovery & evidence synthesis,T02,LMM / multimodal AI,0.5205196649978602,1.7462156070000083,False,4
+S01|T16,S01,Discovery & evidence synthesis,T16,Chemistry / spectroscopy,0.5205196649978602,1.7462156070000083,False,4
+S06|T11,S06,Patient operations & safety,T11,Clinical trials,0.5109885860157379,1.7909813580679295,False,24
+S08|T07,S08,Policy / funding / adoption,T07,Physical AI / robotics,0.5021281422608359,1.833325011591055,False,21
+S04|T07,S04,Regulatory & ethics,T07,Physical AI / robotics,0.497222398566641,1.8570685886740301,False,17
+S02|T20,S02,Preclinical / in silico modeling,T20,Cost / efficiency,0.49289987079632924,1.878165137373532,False,13
+S01|T01,S01,Discovery & evidence synthesis,T01,LLM / conversational AI,0.49180133865315057,1.88355278294164,False,14
+S06|T20,S06,Patient operations & safety,T20,Cost / efficiency,0.4862980883628288,1.910701890488331,False,20
+S07|T07,S07,Verification & assurance,T07,Physical AI / robotics,0.4837839021595535,1.9231930205709526,False,13
+S03|T11,S03,Trial design & protocols,T11,Clinical trials,0.4795837287197305,1.9441831216450136,False,17
+S01|T20,S01,Discovery & evidence synthesis,T20,Cost / efficiency,0.47827671832640783,1.9507460236476581,False,17
+S03|T18,S03,Trial design & protocols,T18,Patient safety / adverse events,0.47559486560567094,1.9642586848257444,False,8
+S06|T18,S06,Patient operations & safety,T18,Patient safety / adverse events,0.47350148192127395,1.9748494525415061,False,12
+S06|T03,S06,Patient operations & safety,T03,Agentic / code generation,0.4668995278238409,2.0084966901558783,False,20
+S06|T17,S06,Patient operations & safety,T17,Regulatory / compliance,0.46382782040394727,2.024279160098709,False,19
+S06|T19,S06,Patient operations & safety,T19,Patient matching / decision support,0.4546126981442662,2.0721090495215853,False,6
+S03|T17,S03,Trial design & protocols,T17,Regulatory / compliance,0.4469201554117728,2.1125871842902493,False,13
+S05|T03,S05,Site / sponsor infrastructure,T03,Agentic / code generation,0.44370598373247117,2.1296477943445815,False,14
+S02|T10,S02,Preclinical / in silico modeling,T10,MCP / API infrastructure,0.4420416521091461,2.1385160312849583,False,9
+S01|T05,S01,Discovery & evidence synthesis,T05,Machine learning / optimization,0.4414858931092057,2.1414825117669407,False,5
+S07|T06,S07,Verification & assurance,T06,Simulation / digital twin,0.4402254531628119,2.1482199579474615,False,8
+S08|T03,S08,Policy / funding / adoption,T03,Agentic / code generation,0.4399441530957506,2.1497254093232585,False,17
+S03|T22,S03,Trial design & protocols,T22,Drug compounds / discovery / synergy,0.4388997890975422,2.155320386278839,False,9
+S07|T03,S07,Verification & assurance,T03,Agentic / code generation,0.4176345347922784,2.271215903463415,False,10
+S08|T11,S08,Policy / funding / adoption,T11,Clinical trials,0.4085351289143853,2.321945805594525,False,22
+S02|T12,S02,Preclinical / in silico modeling,T12,PDAC / pancreatic cancer,0.4057981129417343,2.337337165988174,False,7
+S02|T11,S02,Preclinical / in silico modeling,T11,Clinical trials,0.39275064370886564,2.411543939777487,False,13
+S04|T10,S04,Regulatory & ethics,T10,MCP / API infrastructure,0.392474786875964,2.4131277100135198,False,9
+S04|T03,S04,Regulatory & ethics,T03,Agentic / code generation,0.39199066829170537,2.415908649764537,False,12
+S04|T22,S04,Regulatory & ethics,T22,Drug compounds / discovery / synergy,0.37596030887070225,2.50905382953025,False,7
+S03|T20,S03,Trial design & protocols,T20,Cost / efficiency,0.36870385800626,2.5518913358146453,False,13
+S01|T04,S01,Discovery & evidence synthesis,T04,Document retrieval / RAG,0.3656739045756044,2.569901708418474,False,9
+S07|T20,S07,Verification & assurance,T20,Cost / efficiency,0.36087748355852695,2.5985602948634723,False,11
+S02|T08,S02,Preclinical / in silico modeling,T08,VVUQ / assurance,0.36000305636545255,2.6038045203893123,False,8
+S08|T20,S08,Policy / funding / adoption,T20,Cost / efficiency,0.349122119754393,2.6695628275883636,False,19
+S05|T09,S05,Site / sponsor infrastructure,T09,Federated learning,0.3486083443891982,2.672690699557558,False,3
+S06|T13,S06,Patient operations & safety,T13,Glioblastoma,0.3194575716689438,2.853512566235228,False,6
+S01|T15,S01,Discovery & evidence synthesis,T15,mAb / bioprocess,0.3141066943952604,2.8874139418976466,False,3
+S06|T14,S06,Patient operations & safety,T14,Lung adenocarcinoma,0.1276884796138123,4.2,False,2
