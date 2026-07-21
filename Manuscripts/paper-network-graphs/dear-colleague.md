@@ -10,7 +10,7 @@ GitHub Source: https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main/Man
 
 Code Generator: ChatGPT 5.6 Thinking Extended
 
-Sincerely,
-CEO Kevin Kawchak
-ChemicalQDevice
+Sincerely,  
+CEO Kevin Kawchak  
+ChemicalQDevice  
 July 20, 2026
