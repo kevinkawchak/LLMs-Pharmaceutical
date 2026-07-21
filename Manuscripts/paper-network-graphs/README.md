@@ -14,9 +14,14 @@
 
 #### Graph 2
 - Research Theme Co-occurrence Network
-- Themes use explicit REAOME wording plus four reviewed false-positive corrections - Edges report Ochia-normalized abstract co mentions
+- Themes use explicit README wording plus four reviewed false-positive corrections - Edges report Ochia-normalized abstract co mentions
+
 #### Graph 3
-- 
+- Abstract-Derived Pipeline-Theme Association Network
+- Light clinical research stages connect to themes only when at least two README publications support the pair
+- Strength is normalized weighted keyword evidence
 
 #### Graph 4
-- 
+- Temporal Text-Similarity Precursor Network
+- Arrows run from earlier publications to the closest later abstract by TF-I/cosine
+- A near tied second earlier match is retained when supported
