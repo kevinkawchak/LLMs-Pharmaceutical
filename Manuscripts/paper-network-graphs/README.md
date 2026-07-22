@@ -27,3 +27,7 @@
 - Temporal Text-Similarity Precursor Network
 - Arrows run from earlier publications to the closest later abstract by TF-I/cosine
 - A near tied second earlier match is retained when supported
+
+See Also:  
+[Monthly Primary-Purpose River Streamgraph](https://drive.google.com/file/d/1XvxeP43fH0HDYwkcoigB8_uCqgwAkc1K/view?usp=drivesdk)  
+[Protocol to Funding Translation Map](https://drive.google.com/file/d/13ZgLrfP-mR7Ksh3kESxtBki31xxClpO5/view?usp=drivesdk)
