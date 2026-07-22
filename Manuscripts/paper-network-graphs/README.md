@@ -1,9 +1,10 @@
 ## 2024-2026 ChemicalQDevice Network Graphs
-- AI: ChatGPT 5.6 Thinking Extended.
-- Input: 53 Publication Abstracts' Text. Location: Manuscripts/README.md
-- ChemicalQDevice_graphs_20Jul26.ipynb.
-- Output: Four high resolution graphs.
-- Output: 8 Supplementary CSV files.
+- AI: ChatGPT 5.6 Thinking Extended
+- Input: 53 Publication Abstracts' Text
+- Location: Manuscripts/README.md
+- Output: Four high resolution graphs
+- Output: 8 Supplementary CSV files
+- ChemicalQDevice_graphs_20Jul26.ipynb
 
 [Download Images, Notebook](https://drive.google.com/drive/folders/1liqEU-XDuwgSY66jcwZhHf96BODDsBwV)
 
