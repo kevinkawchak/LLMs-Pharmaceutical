@@ -37,5 +37,5 @@
 22) 05/26, Patient-priority legislation, https://doi.org/10.5281/zenodo.20045457
 
 See Also:  
-[Monthly primary-purpose river streamgraph](https://drive.google.com/file/d/1XvxeP43fH0HDYwkcoigB8_uCqgwAkc1K/view?usp=drivesdk)  
+[Monthly Primary-Purpose River Streamgraph](https://drive.google.com/file/d/1XvxeP43fH0HDYwkcoigB8_uCqgwAkc1K/view?usp=drivesdk)  
 [Publication Abstract Similarity Network](https://drive.google.com/file/d/1q8a_VKJrao1DF_hZzLjfem-eAPys3JcB/view?usp=drivesdk)
