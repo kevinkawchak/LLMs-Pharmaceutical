@@ -9,10 +9,10 @@
 
 #### Protocol to Funding Translation Map
 Reorganized the evidence area into the requested structure:
-	•	1 Simulation Code: four existing references in the left column.
-	•	2 Simulation Code: the four specified new references in the center column.
-	•	3 Machine Learning Pipelines: two ML references at the top right.
-	•	4 LLM Inference Competition: a true 16-entry, single-elimination bracket at the bottom right.
+	•	1 Simulation Code: four existing references in the left column.  
+	•	2 Simulation Code: the four specified new references in the center column.  
+	•	3 Machine Learning Pipelines: two ML references at the top right.  
+	•	4 LLM Inference Competition: a true 16-entry, single-elimination bracket at the bottom right.  
 
 #### List of References
 
