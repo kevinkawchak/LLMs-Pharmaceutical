@@ -7,7 +7,7 @@
 
 [Download Image, Notebook](https://drive.google.com/drive/folders/1yhPBCn3mkI2amABKQNcfkazS_m8og5Lq)
 
-#### Funding Evidence Diagram
+#### Python Evidence Funding Diagram
 Reorganized the evidence area into the requested structure:
 - 1 Simulation Code: four existing references in the left column.  
 - 2 Simulation Code: the four specified new references in the center column.  
