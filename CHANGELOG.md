@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - @kevinkawchak formatted text from main/Guidance and main/Manuscripts on 2026-07-19.
 - @kevinkawchak updated main/README.md "LLM Papers: Cancer Drug & Oncology Trials" section to include paper number designations; and strengths, limitations, and results context on 2026-07-20.
 - @kevinkawchak updated README and markdown files to include a ChemicalQDevice evidence diagram throughout main/Manuscripts subdirectories on 2026-07-23.
+- @kevinkawchak updated main/Guidance README.md with LLM-Oncology-Trial-Literature-Review-2025-2026 link and summaries on 2026-07-27.
 
 ### Notes
 - Version numbering continues from the implicit v4.1 state of the repository (801 MB, 2,300+ files, 1,446 notebooks, 30+ publications)
