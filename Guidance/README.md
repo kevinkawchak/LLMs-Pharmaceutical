@@ -15,6 +15,9 @@
 #### LLM Oncology Trial Literature Review 2025, 2026
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/literature-reviews/LLM-Oncology-Trial-Literature-Review-2025-2026/LLM%20Oncology%20Trial%20Literature%20Review%202025%2C%202026.pdf)
 
+- Persistent publication of previously released LLMs is a result of an inefficient publication process.
+- End-to-end LLM workflows across trial phases for accelerating document and revision process.
+
 #### Present Claude Code Documentation at Scale
 [Open PDF](https://github.com/kevinkawchak/LLMs-Pharmaceutical/blob/main/Guidance/Present%20Claude%20Code%20Documentation%20at%20Scale.pdf)
 
