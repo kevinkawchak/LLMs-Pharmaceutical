@@ -1,4 +1,38 @@
 <div align="center">
+  <p>Patient Robot Advocacy: A Phase 1, First-in-Human, PDAC Clinical Trial Protocol of a LLM-Directed Robotic Whipple with Daraxonrasib (RMC-6236)</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>August 1, 2026</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+
+<div align="left">
+
+The parent clinical protocol opens with a Statement of Compliance addressed to the Food and Drug Administration, the Institutional Review Board, and the sponsor. That statement is necessary, it is correct, and it is not addressed to the person whose abdomen will be opened. It tells the regulator which parts of Title 21 the study satisfies. It does not tell the participant what the study owes them. 
+
+This paper opens instead with the seven things the same protocol commits to the participant. Each one is tied to a clause that makes it enforceable rather than aspirational, and each one names something the participant can check. The distinction matters, because the surveyed literature on patient attitudes to robotic and artificial-intelligence-assisted surgery reports again and again that reassurance without a checkable referent is heard as marketing.
+
+The premise is taken from the author’s earlier analysis of proposed United States legislation for Physical AI oncology trials: the cancer patient, not the doctor, not the nurse, not the trial sponsor, not the Institutional Review Board, and not the regulator, is the priority participant. That premise is not a sentiment. It has a structural consequence, which the whole of this paper works out: if the participant is the priority, then every safeguard written as a sponsor obligation can also be written as a participant capability, and the two readings should agree. Where they do not agree, this paper says so.
+
+This is an advocacy document assembled from the protocol’s own record. It is not the consent form and it is not a substitute for one. It is designed to be read before the consent conversation, so that the conversation can be spent on the questions this document cannot answer.
+
+<div align="left">
+
+<br>
+
+Kawchak, K. (2026). Patient Robot Advocacy: A Phase 1, First-in-Human, PDAC Clinical Trial Protocol of a LLM-Directed Robotic Whipple with Daraxonrasib (RMC-6236). Zenodo. https://doi.org/10.5281/zenodo.21720120
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21720120-blue)](https://doi.org/10.5281/zenodo.21720120)
+
+---
+
+
+<div align="center">
   <p>Clinical Trial Funding Application v2.0, RFA-RM-27-001, Kawchak K.</p> 
 <div align="center">
 
