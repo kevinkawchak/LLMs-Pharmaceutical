@@ -7,7 +7,7 @@
   <p>Chief Executive Officer</p>
   <p>ChemicalQDevice</p>
   <p>San Diego, CA</p>
-  <p>August 1, 2026</p>
+  <p>July 31, 2026</p>
   <p>kevink@chemicalqdevice.com</p>
   <p><strong>Abstract</strong></p>
 </div>
