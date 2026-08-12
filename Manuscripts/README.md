@@ -1,4 +1,36 @@
 <div align="center">
+  <p>From Independent Scientist to Novel Performer: A Small-Business Operating, Milestone, and Capitalization Plan for a Phase 1 LLM-Advised Robotic Whipple</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>August 11, 2026</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+
+<div align="left">
+
+In August 2026 the author filed ten funding applications for a Phase 1 trial of an LLM-advised robotic pancreaticoduodenectomy with perioperative daraxonrasib, written throughout as an independent scientist. Nine of the ten address mechanisms that fund a person or an institution. One, application 05, addresses the only mechanism in the set built for a company, and it was the shortest of the ten. This paper converts the author from independent scientist to small-business operator and rewrites that application as the document it should have been.
+
+The clause the conversion turns on is neither the report’s individual-scientist language nor its novel-performers chapter. It is the Small Business Innovation Research clause of Science: A New Golden Age, which appears in three separate chapters and is the only clause in the report written for a firm. Three numbers govern what follows: $306,000 for a nine-month Phase I, $1,300,000 for a twenty-four-month Phase II, and the $3,500,000 five-year direct program the two are measured against. Two more are derived: $1,396,000 of direct work sits inside the $1,606,000 award, and $2,104,000 sits outside it. 
+
+What is offered is a costed twelve-milestone schedule. Every row carries an evidence artifact that exists as a file, a cost that sums into its phase, a stop condition stated before the work begins, and the funder mechanism that pays.
+
+<div align="left">
+
+<br>
+
+Kawchak, K. (2026). From Independent Scientist to Novel Performer: A Small-Business Operating, Milestone, and Capitalization Plan for a Phase 1 LLM-Advised Robotic Whipple. Zenodo. https://doi.org/10.5281/zenodo.21887807
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21887807-blue)](https://doi.org/10.5281/zenodo.21887807)
+
+---
+
+
+<div align="center">
   <p>Patient Robot Advocacy: A Phase 1, First-in-Human, PDAC Clinical Trial Protocol of a LLM-Directed Robotic Whipple with Daraxonrasib (RMC-6236)</p> 
 <div align="center">
 
