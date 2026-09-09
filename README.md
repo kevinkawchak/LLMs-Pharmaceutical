@@ -168,7 +168,7 @@ Code/Groq/                      #  1 notebook  — GroqCloud 4-model inference c
 Code/Open WebUI/                #              — Ollama/Docker GenAI deployment
 ```
 
-### Quantum Machine Learning (Historical)
+### Quantum-Inspired Machine Learning (Historical)
 
 Earlier work focused on quantum machine learning (QML) using PennyLane and Qiskit frameworks. This represents the largest portion of notebooks by count (600+) and covers algorithm prototyping, parallel quantum architectures, tensor networks, and device benchmarking.
 
