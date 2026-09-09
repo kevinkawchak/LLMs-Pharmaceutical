@@ -170,7 +170,7 @@ Code/Open WebUI/                #              — Ollama/Docker GenAI deploymen
 
 ### Quantum-Inspired Machine Learning (Historical)
 
-Earlier work focused on quantum machine learning (QML) using PennyLane and Qiskit frameworks. This represents the largest portion of notebooks by count (600+) and covers algorithm prototyping, parallel quantum architectures, tensor networks, and device benchmarking.
+Earlier work focused on quantum-inspired machine learning (QiML) using PennyLane and Qiskit frameworks. This represents the largest portion of notebooks by count (600+) and covers algorithm prototyping, parallel quantum architectures, tensor networks, and device benchmarking.
 
 ```
 Code/PennyLane/                            # 488 notebooks
