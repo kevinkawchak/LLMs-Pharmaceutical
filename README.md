@@ -10,7 +10,7 @@
 ---
 
 > ### [LLM Papers: Cancer Drug & Oncology Trials](https://doi.org/10.5281/zenodo.18171361)
-> Collection of Manuscripts 01-20 strengths, limitations, and results based on LLM-driven oncology research by ChemicalQDevice. [50+ Abstracts and Diagrams](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main/Manuscripts). [Industry Guidance,](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main/Guidance)
+> Collection of Manuscripts 01-20 strengths, limitations, and results based on LLM-driven oncology research by ChemicalQDevice. [50+ Abstracts and Diagrams](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main/Manuscripts),[Industry Guidance.](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main/Guidance)
 
 ---
 
