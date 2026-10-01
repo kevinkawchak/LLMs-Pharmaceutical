@@ -4,7 +4,6 @@
 - Location: Manuscripts/README.md
 - Output: One High Resolution Map
 - ChemicalQDevice_Translation_Map.ipynb
-
 [Download Image, Notebook](https://drive.google.com/drive/folders/1mWzHk5xvTX0sIslxgRYY5wRefxdgbLii)
 
 #### Protocol to Funding Translation Map
