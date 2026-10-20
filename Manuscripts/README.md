@@ -1,4 +1,36 @@
 <div align="center">
+  <p>Solutions to LLM + Robotic Oncology Trial Problems</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>October 17, 2026</p>
+  <p>kevinkawchak@gmail.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+
+<div align="left">
+
+Solving new large language model (LLM) and robotic based oncology clinical trial industry problems requires proper publication of protocols, standards, legislation, and funding applications prior to deployment. This paper provides solution sets derived from prior author works for upcoming Physical SI (super intelligence) oncology trials. The publications referenced here require whole implementation, as capabilities differ between state-of-the-art AI models and robots per problem type. Many AI manufacturers’ models have been tested between 2024-2025 in order to discover novel and useful clinical trial applications. These developments include the creation of a patient matching machine learning pipeline, the combination of generated clinical trial meta-analyses to provide new AI insights for indications and cancer drugs, emerging clinical trial simulations, and accelerating the speed and quality of the academic paper creation process.
+
+Ultimately, 2026 multi-prompt processes have been optimized to single master prompt systems featured in new trial protocols, drug applications, and funding requests - which feature autonomous AI sub-prompt generation and execution, professional machine readable diagrams, and iterations of full academic paper source code files using a repository-based LLM. Resulting single master prompt-based publications contained high contextual awareness, with a limited number of author corrections required for diagram positioning and paper formatting. Two comprehensive LLM and oncology clinical trial literature reviews conducted in 2025 and 2026 yielded a limited number applications, delayed implementations of new AI models - prompting the oncology trial solutions.
+
+
+<div align="left">
+
+<br>
+
+Kawchak, K. (2026). Solutions to LLM + Robotic Oncology Trial Problems. Zenodo. https://doi.org/10.5281/zenodo.23427490
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23427490-blue)](https://doi.org/10.5281/zenodo.23427490)
+
+---
+
+
+
+<div align="center">
   <p>From Independent Scientist to Novel Performer: A Small-Business Operating, Milestone, and Capitalization Plan for a Phase 1 LLM-Advised Robotic Whipple</p> 
 <div align="center">
 
